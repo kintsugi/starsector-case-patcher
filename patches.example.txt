@@ -1,0 +1,5 @@
+A_S-F_spellbind_turret_base.png
+A_S-F_spellbind_hardpoint_glow.png
+A_S-F_spellbind_turret_glow.png
+MSS_SuperDes.png
+MSS_SuperDes_Elite.png
